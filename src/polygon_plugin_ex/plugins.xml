@@ -1,0 +1,6 @@
+<library path="polygon_plugin_ex">
+    <class type="polygon_plugins::Trapezoid" base_class_type="polygon_base::RegularPolygon">
+      <description>This is a Trapezoid plugin.</description>
+    </class>
+
+  </library>
